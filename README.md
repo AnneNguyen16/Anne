@@ -18,6 +18,7 @@
 :angry:
 :crying_cat_face: 
 # Keyboard shortcuts
+
 Three shortcuts I usually use
 - Command-C (copy)
 - Command-X (cut)
