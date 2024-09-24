@@ -17,3 +17,12 @@
 :stars:
 :angry:
 :crying_cat_face: 
+##Keyboard shortcuts
+Three shortcuts I usually use
+- Command-C (copy)
+- Command-X (cut)
+- Command-V (paste)
+Three shortcuts I want to use
+- Command-A (select all items)
+- Command-Tav (switch to the next most recently used app among opened apps)
+- Shift-Command-N (create a new folder in Finder)
