@@ -39,5 +39,4 @@ Three shortcuts I want to use
 [CLI commands](docs/cli.md) 
 
 Add a page about CLI commands
-
 This is done for Lab 6. 
