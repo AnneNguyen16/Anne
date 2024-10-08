@@ -35,3 +35,8 @@ Three shortcuts I want to use
 - Command-A (select all items)
 - Command-Tav (switch to the next most recently used app among opened apps)
 - Shift-Command-N (create a new folder in Finder)
+
+[CLI commands](docs/cli.md) 
+Add a page about CLI commands
+
+This is done for Lab 6. 
