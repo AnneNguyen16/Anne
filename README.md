@@ -37,6 +37,7 @@ Three shortcuts I want to use
 - Shift-Command-N (create a new folder in Finder)
 
 [CLI commands](docs/cli.md) 
+
 Add a page about CLI commands
 
 This is done for Lab 6. 
