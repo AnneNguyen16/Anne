@@ -36,7 +36,7 @@ Three shortcuts I want to use
 - Command-Tav (switch to the next most recently used app among opened apps)
 - Shift-Command-N (create a new folder in Finder)
 
-[CLI commands](docs/cli.md) 
+ [CLI commands](docs/cli.md)
 
 
 

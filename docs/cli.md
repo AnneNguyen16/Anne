@@ -1,3 +1,3 @@
-ls: a command used to list files.
+ls: a command that we use to list files.
 
-cat: a command used to read, display and concatenate text files.
+cat: a command that we use to read, concatenate and display files.
