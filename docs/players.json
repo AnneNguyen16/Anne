@@ -7,8 +7,8 @@
     "team": {"name":"Lakers", "city": "Los Angeles"}
   },
   {
-  	"name": "Lionel Messi",
-  	"age": 36
+    "name": "Lionel Messi",
+    "age": 36
     "sports": "Soccer",
     "position": "Forward",
     "team": {"name":"Inter Miami", "city": "Miami"}
