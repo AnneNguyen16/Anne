@@ -2,8 +2,6 @@
   {
     "name": "LeBron James", 
     "age": 38
-  },
-  { 
     "sports": "Basketball",
     "position": "Forward",
     "team": {"name":"Lakers", "city": "Los Angeles"}
@@ -11,17 +9,13 @@
   {
   	"name": "Lionel Messi",
   	"age": 36
-  },
-  {
-  "sports": "Soccer",
-   "position": "Forward",
-   "team": {"name":"Inter Miami", "city": "Miami"}
+    "sports": "Soccer",
+    "position": "Forward",
+    "team": {"name":"Inter Miami", "city": "Miami"}
   },
   {
     "name": "Serena Williams",
     "age": 41
-  },
-  { 
     "sports": "Tennis",
     "position": "Player",
     "team": {"name":"N/A", "city": "N/A"}
@@ -29,8 +23,6 @@
   {
     "name": "Tom Brady",
     "age": 46
-  },
-  { 
     "sports": "Football",
     "position": "Quarterback",
     "team": {"name":"Buccaneers", "city": "Tampa Bay"}
