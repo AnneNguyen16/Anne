@@ -15,10 +15,15 @@
   },
   {
     "name": "Serena Williams",
+    //String
     "age": 41
+    //Number
     "sports": "Tennis",
+    //String
     "position": "Player",
+    //String
     "team": {"name":"N/A", "city": "N/A"}
+    //Null
   },
   {
     "name": "Tom Brady",
